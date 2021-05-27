@@ -1,0 +1,12 @@
+{
+  "name": "Cowin",
+  "displayName": "Cowin",
+  "expo": {
+    "name": "Cowin",
+    "slug": "cowin-finder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
